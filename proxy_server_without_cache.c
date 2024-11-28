@@ -1,5 +1,4 @@
 #include "proxy_parse.h"
-
 #include <stdio.h>
 
 #include <stdlib.h>
