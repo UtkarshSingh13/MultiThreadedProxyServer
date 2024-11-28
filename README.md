@@ -65,7 +65,7 @@ $ cd MultiThreadedProxyServerClient
 $ make all
 $ ./proxy <port no.>
 ```
-`Open http://localhost:port/https://www.cs.princeton.edu/`
+`Open http://localhost:8080/https://www.cs.princeton.edu/`
 
 # Note:
 - This code can only be run in Linux Machine. Please disable your browser cache.
